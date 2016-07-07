@@ -1,0 +1,16 @@
+{
+  "name": "my-tech-diary",
+  "version": "1.0.0",
+  "description": "Allen's Tech Diary",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenfantasy/my-tech-diary.git"
+  },
+  "author": "Allen Wu",
+  "license": "MIT",
+  "homepage": "https://github.com/allenfantasy/my-tech-diary#readme",
+  "dependencies": {
+    "diary-cli": "git+https://github.com/joyeecheung/diary-cli.git"
+  }
+}
